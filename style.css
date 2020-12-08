@@ -1,0 +1,27 @@
+body {
+    text-align : center ;
+  }
+  h1 {
+    font-size : 100px ;
+    word-spacing : 10px ;
+    font-variant : small-caps ;
+    color : red ;
+  }
+  #album {
+    border-style : Ridge ;
+    border-width : 20px ;
+    border-color : rgb(0,255,0) ;
+    padding : 10px ;
+    width : 600px ;
+  }
+  
+  #reasons {
+    font-size: 70px ;
+      color : blue ;
+  }
+  
+  #next {
+    width : 50px ;
+    height : 50px ;
+    font-size : 20px ;
+  }
